@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Gainz Tracker - Tanu's Project
 
 ## Project info
 
